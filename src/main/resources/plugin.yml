@@ -1,0 +1,8 @@
+name: pr
+version: '1.0'
+main: fun.aqurik.pr.Pr
+api-version: '1.21'
+prefix: [ Pidorasi Restock ]
+authors: [ aqurik13 ]
+description: 4 aetheris
+website: https://aetheris.uno
